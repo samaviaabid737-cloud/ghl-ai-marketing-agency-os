@@ -49,6 +49,11 @@ flowchart LR
     B <-->|Optional webhooks| L[n8n / External APIs]
     L -. Optional AI classification .-> C
 ```
+### Visual System Architecture
+
+The diagram below illustrates the proposed GoHighLevel CRM, AI automation, lead acquisition, integrations, and reporting architecture.
+
+![AI-Powered Marketing Agency System Architecture](assets/architecture-diagram.png)
 
 ## Proposed CRM Pipeline
 
