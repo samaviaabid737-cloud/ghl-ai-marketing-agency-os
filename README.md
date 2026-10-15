@@ -133,6 +133,31 @@ See [Implementation plan](docs/05-implementation-plan.md) and [Test plan](docs/0
 - [ ] Functional tests and UAT passed
 - [ ] Real screenshots and video demo published
 
+## Automation Workflow Diagrams
+
+The following diagrams illustrate the seven core automation workflows designed for the AI-Powered Marketing Agency Operating System. These are proposed workflow designs; live GoHighLevel implementation and testing will be documented separately.
+
+### 01. Lead Capture & AI Qualification
+![Lead Capture Workflow](assets/workflows/01-lead-capture-workflow.png)
+
+### 02. Lead Nurturing
+![Lead Nurturing Workflow](assets/workflows/02-lead-nurturing-workflow.png)
+
+### 03. Appointment Booking
+![Appointment Booking Workflow](assets/workflows/03-appointment-booking-workflow.png)
+
+### 04. Sales Pipeline Automation
+![Sales Pipeline Workflow](assets/workflows/04-sales-pipeline-workflow.png)
+
+### 05. Client Onboarding
+![Client Onboarding Workflow](assets/workflows/05-client-onboarding-workflow.png)
+
+### 06. Retention & Reactivation
+![Retention and Reactivation Workflow](assets/workflows/06-retention-reactivation-workflow.png)
+
+### 07. Feedback & Referrals
+![Feedback and Referrals Workflow](assets/workflows/07-feedback-referrals-workflow.png)
+
 ## Portfolio Note
 
 This repository documents a proposed implementation and is intended to become a working, evidence-backed portfolio case study. Features marked as planned should not be represented as already deployed for a client.
